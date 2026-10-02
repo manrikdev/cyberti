@@ -1,0 +1,77 @@
+<!DOCTYPE NETSCAPE-Bookmark-file-1>
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=UTF-8">
+<TITLE>Ciberseguridad Bookmarks</TITLE>
+<H1>Ciberseguridad</H1>
+<DL><p>
+
+<DT><H3>Exposición de Brechas e Identidad</H3>
+<DL><p>
+<DT><A HREF="https://haveibeenpwned.com">Have I Been Pwned</A>
+<DT><A HREF="https://monitor.mozilla.org">Mozilla Monitor</A>
+<DT><A HREF="https://www.dehashed.com">DeHashed</A>
+<DT><A HREF="https://leak-lookup.com">Leak-Lookup</A>
+<DT><A HREF="https://intelx.io">Intelligence X</A>
+<DT><A HREF="https://breachdirectory.org">BreachDirectory</A>
+</DL><p>
+
+<DT><H3>Reconocimiento de Activos</H3>
+<DL><p>
+<DT><A HREF="https://www.shodan.io">Shodan</A>
+<DT><A HREF="https://xleakx.com">XLeaKX</A>
+<DT><A HREF="https://crt.sh">CRT.sh</A>
+<DT><A HREF="https://talosintelligence.com">Talos Intelligence</A>
+</DL><p>
+
+<DT><H3>Reputacion IP y Dominio</H3>
+<DL><p>
+<DT><A HREF="https://www.urlvoid.com">URLVoid</A>
+<DT><A HREF="https://www.abuseipdb.com">AbuseIPDB</A>
+<DT><A HREF="https://check.spamhaus.org">Spamhaus</A>
+<DT><A HREF="https://report.smartscreen.microsoft.com">Microsoft SmartScreen</A>
+<DT><A HREF="https://virusscan.jotti.org">Jotti Malware Scan</A>
+</DL><p>
+
+<DT><H3>Escaneo Malware y URLs</H3>
+<DL><p>
+<DT><A HREF="https://global.sitesafety.trendmicro.com">Web Filter Lookup</A>
+<DT><A HREF="https://labs.inquest.net">InQuest Labs</A>
+<DT><A HREF="https://urlscan.io">URLScan.io</A>
+<DT><A HREF="https://www.virustotal.com">VirusTotal</A>
+<DT><A HREF="https://www.hybrid-analysis.com">Hybrid Analysis</A>
+<DT><A HREF="https://www.joesandbox.com">Joe Sandbox</A>
+<DT><A HREF="https://www.virscan.org">VirScan</A>
+</DL><p>
+
+<DT><H3>Inteligencia de Amenazas e IOC</H3>
+<DL><p>
+<DT><A HREF="https://otx.alienvault.com">AlienVault OTX</A>
+<DT><A HREF="https://exchange.xforce.ibmcloud.com">IBM X-Force Exchange</A>
+<DT><A HREF="https://threatfox.abuse.ch">ThreatFox</A>
+<DT><A HREF="https://bazaar.abuse.ch">MalwareBazaar</A>
+<DT><A HREF="https://openphish.com">OpenPhish</A>
+<DT><A HREF="https://urlhaus.abuse.ch">URLHaus</A>
+<DT><A HREF="https://www.blocklist.de">BlockList.de</A>
+<DT><A HREF="https://feodotracker.abuse.ch">Feodo Tracker</A>
+<DT><A HREF="https://www.threatminer.org">ThreatMiner</A>
+</DL><p>
+
+<DT><H3>DNS</H3>
+<DL><p>
+<DT><A HREF="https://radar.cloudflare.com">Cloudflare Radar</A>
+<DT><A HREF="https://www.quad9.net">Quad9</A>
+<DT><A HREF="https://nextdns.io">NextDNS</A>
+<DT><A HREF="https://cleanbrowsing.org">CleanBrowsing</A>
+<DT><A HREF="https://adguard-dns.io">AdGuard DNS</A>
+<DT><A HREF="https://www.opendns.com">OpenDNS</A>
+</DL><p>
+
+<DT><H3>Seguridad Web</H3>
+<DL><p>
+<DT><A HREF="https://www.ssllabs.com/ssltest">Qualys SSL Server Test</A>
+<DT><A HREF="https://observatory.mozilla.org">Mozilla Observatory</A>
+<DT><A HREF="https://securityheaders.com">SecurityHeaders</A>
+<DT><A HREF="https://www.upguard.com/webscan">UpGuard Web Scan</A>
+<DT><A HREF="https://csp-evaluator.withgoogle.com">CSP Evaluator</A>
+</DL><p>
+
+</DL><p>
